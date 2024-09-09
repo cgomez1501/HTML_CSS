@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: white;
+}
+.nav_bar{
+    border-radius: 10px;
+    border-width: 5px;
+    background-color: black;
+    text-align: center;
+    margin: 50px auto;
+    border: 1px solid black;
+    height: 50px;
+}
+.nav_box{
+    padding: 5px;
+    background: linear-gradient(15deg, #880088, #aa2068, #cc3f47, #de6f3d, #f09f33, #de6f3d, #cc3f47, #aa2068, #880088) no-repeat;
+    border: 1px solid black;
+    margin: 10px auto;
+    border-radius: 10px;
+    width: 110px;
+    transition: 1s ease;
+}
+.nav_box:hover{
+    background-size: 320%;
+    background-position: right center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+body{
+    background-image: url(/360_F_243757367_gBpS6R5c8DB7pL5gw9gi9KXlzFfbdZOA.jpg);
+}
